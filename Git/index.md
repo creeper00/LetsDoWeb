@@ -16,7 +16,7 @@ git의 가아아아아장 중요한 기능 중 하나라 할 수 있습니다. �
 - GitHub   
 GitHub는 git을 사용하는 여러 프로젝트를 지원하는 서비스입니다. 가장 큰 기능은 일을 할 수 있는 원격 저장소를 제공해준다는 것이죠. 프로젝트 생성시 저장소 내 파일들을 한눈에 볼 수 있고, 파일들을 열어볼 수도 있고, 협업자 지정, 메시지 주고 받기, 검색 등 엄청나게 다양한 서비스들을 세련된 인터페이스에 제공해주고 있습니다. cmd 느낌의 git을 github를 통해 훨씬 직관적이고 편하게 이용할 수 있게 되었죠. github 이용을 위해서는 계정 생성과 프로젝트를 오픈 소스로 하는것이 필요합니다. (싫으면 돈 내면 됩니다 ㅎㅎ) github에 있는 다양한 기능들은 gtihub을 자주 이용하며 익숙해지길 추천합니다.    
 
-## [Git 명령어] (git_command.md)      
+## [Git_명령어](git_command.md)      
 
 ## Reference    
 - [backlog.com/git-tutorial/kr/](https://backlog.com/git-tutorial/kr/)   
