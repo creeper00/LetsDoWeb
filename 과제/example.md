@@ -23,3 +23,4 @@ branch 생성을 꼭 clone하고 컴퓨터로 받아온 다음 할 필요는 없
 `git branch -r` 을 통해 원격 저장소의 branch를 확인한 다음 `git checkout -t origin/<branch name>`으로 branch를 받아올 수 있습니다. 이때 checkout에 의해 branch는 자동으로 switch됩니다. (정확히는 같은 이름의 branch에 데이터를 이전하는 것입니다..ㅎ)
 이것이 귀찮으면, github에서 새로 만든 branch로 이동하고, 그곳에서 **upload file** 이나 **new file** 을 통해 바로 commit 할 수도 있습니다.  
 cmd의 경우 아래 이미지를 참조해 주세요.  
+[image3](./image_assignments/image_ex2)
