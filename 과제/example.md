@@ -12,7 +12,7 @@
 이제 push를 해주면 되는데, 본인이 새로 branch를 파고 이걸 그냥 git push하면 아마 에러가 뜰 겁니다.   
 `git push origin <branch name>`을 해줍시다. (구글 치면 나와요 ㅠㅠ)
 
-- 2번 방법
+- 2번 방법    
 branch 생성을 꼭 clone하고 컴퓨터로 받아온 다음 할 필요는 없습니다.  
 그 방식이 정석이지만 github에서 지원을 해주죠...   
 먼저 아래처럼 branch를 만들고   
