@@ -25,4 +25,4 @@ branch 생성을 꼭 clone하고 컴퓨터로 받아온 다음 할 필요는 없
 이것이 귀찮으면, github에서 새로 만든 branch로 이동하고, 그곳에서 **upload file** 이나 **new file** 을 통해 바로 commit 할 수도 있습니다.  
 cmd의 경우 아래 이미지를 참조해 주세요.  
       
-![image3](./image_assignments/image_ex2.png)
+- [image3](./image_assignments/image_ex2.png)
