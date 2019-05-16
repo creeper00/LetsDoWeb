@@ -9,7 +9,7 @@
 (과제의 경우 LetsDoWeb 이라는 폴더가 컴퓨터 내(보통 c:)에 만들어졌을 겁니다. 거기다 넣으시면 됩니다.)   
 다음, `git add <file name>` 을 해줍니다.
 파일을 추가해 줬으니 `git commit -m "message"` 커밋을 해줍시다.
-이제 push를 해주면 되는데, 본인이 새로 branch를 파고 이걸 그냥 git push하면 아마 에러가 뜰 겁니다.   
+이제 push를 해주면 되는데, 본인이 새로 branch를 파고 이걸 그냥 git push <저장소> 해도 되고.   
 `git push origin <branch name>`을 해줍시다. (구글 치면 나와요 ㅠㅠ)
 
 - 2번 방법    
