@@ -11,9 +11,9 @@
 follow the tutorial on cmd   
 if successful   
 
-![image_r1](./image_r1)   
+![image_r1](./image_r1.png)   
     
 new directory generated!    
     
     
-![image_r2](./image_r2)
+![image_r2](./image_r2.png)
