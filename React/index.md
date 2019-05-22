@@ -7,7 +7,12 @@
 3. click setup for tutorial!! They'll explain everything   
 
    for Node.js download [click](https://nodejs.org/ko/download/)   
-     
+      
+        
+           
+              
+                 
+                 
 follow the tutorial on cmd   
 if successful   
 
