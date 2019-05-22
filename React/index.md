@@ -1,5 +1,8 @@
 # React  
 
+## What is React?   
+[리액트란?](http://blog.naver.com/PostView.nhn?blogId=jdub7138&logNo=221071408817&parentCategoryNo=&categoryNo=109&viewDate=&isShowPopularPosts=true&from=search)
+
 ## Settings
 
 1. download react [here](https://arc.js.org/)    
