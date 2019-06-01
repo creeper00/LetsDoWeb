@@ -65,3 +65,5 @@ setInterval(tick, 1000);
 JS에서 new Date(), Date 객체는 날짜와 관련된 정보를 반환합니다. 위의 코드는 현재 지역의 시간을 반환하죠.   
 setInterval(tick,1000) 의 경우 tick을 지연시간 1000 (1초에 해당)마다 실행합니다!  
 
+## REFERENCE
+[React Tutorial](https://reactjs.org)
