@@ -49,7 +49,7 @@ ReactDOM.reander는 보이는대로 '출력'을 담당합니다.
 
    
  ## 추가
- '''
+ ```
  function tick() {
   const element = (
     <div>
