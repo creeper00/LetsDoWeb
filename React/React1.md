@@ -46,3 +46,22 @@ element 에는 <> </> brace가 있죠? html에서 보셨을 텐데, 이 경우 �
 ReactDOM.reander는 보이는대로 '출력'을 담당합니다.   
 가운데 element가 보이죠? element는 출력을 할수 있는 <> 가 존재해서 자동으로 출력이됩니다.
 다른 식으로 출력하고 싶을 땐 직접 render 안에 {formatName(name)}을 적어줍시다. ( {}안에 함수를 넣으세요! 안넣으면... 직접 해보세요 )   
+
+   
+ ## 추가
+ '''
+ function tick() {
+  const element = (
+    <div>
+      <h1>Hello, world!</h1>
+      <h2>It is {new Date().toLocaleTimeString()}.</h2>
+    </div>
+  );
+  ReactDOM.render(element, document.getElementById('root'));
+}
+
+setInterval(tick, 1000);
+```    
+JS에서 new Date(), Date 객체는 날짜와 관련된 정보를 반환합니다. 위의 코드는 현재 지역의 시간을 반환하죠.   
+setInterval(tick,1000) 의 경우 tick을 지연시간 1000 (1초에 해당)마다 실행합니다!  
+
